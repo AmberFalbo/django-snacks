@@ -50,5 +50,5 @@ ALLOWED_HOST['your host']
 01-01-2001 4:59pm - Added functionality to add and delete some things. -->
 
 
-## Example
+<!-- ## Example -->
 <!-- Show them what looks like and how how to use the application.  -->
