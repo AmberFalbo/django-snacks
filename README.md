@@ -1,6 +1,7 @@
 # django-snacks
 
-**Author**: Your Name(s) Goes Here
+**Author**: Amber Falbo
+
 **Version**: 
 1.0.0 (2/26/21) - Base code and html implemented
 
